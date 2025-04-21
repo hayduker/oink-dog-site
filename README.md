@@ -1,2 +1,2 @@
-# oink-dog-site
+# oink.dog
 Source for oink.dog
